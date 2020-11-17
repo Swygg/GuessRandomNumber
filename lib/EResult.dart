@@ -1,0 +1,1 @@
+enum EResult{GoodNumber, Highter, Lower, TooHight, TooLow, Error}
